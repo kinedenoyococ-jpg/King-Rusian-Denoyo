@@ -1,14 +1,14 @@
 # Hi, I'm King Rusian Denoyo 👋  
-### BSIT Student | PHINMA Cagayan de Oro College[span_0](start_span)[span_0](end_span)
+### BSIT Student | PHINMA Cagayan de Oro College[span_0](start_span)[span_0]
 
-A motivated Information Technology student with a strong interest in technology, computer systems, and software development[span_1](start_span)[span_1](end_span). Responsible, hardworking, and eager to solve technical problems, learn new skills, and gain practical experience in the IT field[span_2](start_span)[span_2](end_span).
+A motivated Information Technology student with a strong interest in technology, computer systems, and software development[span_1](start_span)[span_1]. Responsible, hardworking, and eager to solve technical problems, learn new skills, and gain practical experience in the IT field[span_2](start_span)[span_2].
 
 ---
 
 ## 🛠️ Technical Skills & Work Tools
 
-* *Web Development:* HTML (Basic Web Development), CSS (Web Page Styling), JavaScript (Basic Programming)[span_3](start_span)[span_3](end_span)
-* *Database & Local Servers:* MySQL, XAMPP, Database Management[span_4](start_span)[span_4](end_span)
+* *Web Development:* HTML (Basic Web Development), CSS (Web Page Styling), JavaScript (Basic Programming)[span_3](start_span)[span_3]
+* *Database & Local Servers:* MySQL, XAMPP, Database Management[span_4](start_span)[span_4]
 * *Development Tools:* Visual Studio Code (VS Code), NetBeans, Web Browser Developer Tools[span_5](start_span)[span_5](end_span)
 * *Core Competencies:* Hard Work, Time Management, Willingness to Learn, Teamwork, Discipline[span_6](start_span)[span_6](end_span)
 
